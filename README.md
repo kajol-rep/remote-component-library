@@ -1,2 +1,2 @@
-# remote-component-library
+# Component-Library
 Created with CodeSandbox
